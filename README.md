@@ -4,7 +4,7 @@
 
 Ce projet a été réalisé dans le cadre de ma formation en BUT Informatique, lors du second semestre de l'année universitaire 2023-2024. Il s'agit d'un projet **de visualisation et de manipulation de données** issues des Éditions des Jeux Olympiques (Édition 2020, ou 1956 pour ma partie), à partir d'une base de données Oracle.
 
-> 🔹 Le projet a été réalisé en **binôme** avec d'autres étudiant(e)s.
+> 🔹 Le projet a été réalisé **seule**.
 > 🔹 Finalisation du projet : **juin 2024**.
 
 ## 📊 Objectifs
